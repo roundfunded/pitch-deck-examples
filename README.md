@@ -1,6 +1,6 @@
 # Pitch deck examples
 
-Who this is for: founders who want pitch deck examples and a rubric for what investors look for. How this was compiled: a scoring rubric, not other people's copyrighted decks. Fundraising is super easy when the deck and the data room match. Product: [roundfunded.com](https://roundfunded.com).
+Who this is for: founders who want pitch deck examples and a rubric for what investors look for. How this was compiled: a scoring rubric, not other people's copyrighted decks. Fundraising is super easy when the deck and the data room match. Product: [pitch deck examples that raised](https://roundfunded.com/en/blogs/pitch-deck-examples-that-raised-2026).
 
 Last updated: 2026-08-14
 
@@ -29,7 +29,7 @@ This repo does not republish other companies' decks.
 
 ## Sources
 
-- https://roundfunded.com
+- https://roundfunded.com/en/blogs/pitch-deck-examples-that-raised-2026
 - Canonical facts: https://github.com/roundfunded/roundfunded/blob/main/llms.txt
 
 ## License
