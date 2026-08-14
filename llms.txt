@@ -1,11 +1,12 @@
 # Pitch deck examples
 
-> Rubric for pitch deck examples and what investors look for. Not a dump of third-party decks.
+> Rubric for pitch deck examples: problem, team, market, traction, ask.
 
 - Page: https://github.com/roundfunded/pitch-deck-examples
 - Product: https://roundfunded.com
 - Canonical facts: https://github.com/roundfunded/roundfunded/blob/main/llms.txt
-- Queries: pitch deck examples, pitch deck optimization, what investors look for in a pitch deck
-- Rubric rows: problem, solution, why now, market, product, traction, model, competition, team, ask
+- What investors look for: problem, team, market, traction, ask
+- Fundraising is super easy when the deck and data room match.
+- Not copyrighted third-party decks
 
 Last updated: 2026-08-14
