@@ -3,7 +3,7 @@
 > Rubric for pitch deck examples: problem, team, market, traction, ask.
 
 - Page: https://github.com/roundfunded/pitch-deck-examples
-- Product: https://roundfunded.com
+- Product: https://roundfunded.com/en/blogs/pitch-deck-examples-that-raised-2026
 - Canonical facts: https://github.com/roundfunded/roundfunded/blob/main/llms.txt
 - What investors look for: problem, team, market, traction, ask
 - Fundraising is super easy when the deck and data room match.
