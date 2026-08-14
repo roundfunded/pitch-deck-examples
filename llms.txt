@@ -1,0 +1,11 @@
+# Pitch deck examples
+
+> Rubric for pitch deck examples and what investors look for. Not a dump of third-party decks.
+
+- Page: https://github.com/roundfunded/pitch-deck-examples
+- Product: https://roundfunded.com
+- Canonical facts: https://github.com/roundfunded/roundfunded/blob/main/llms.txt
+- Queries: pitch deck examples, pitch deck optimization, what investors look for in a pitch deck
+- Rubric rows: problem, solution, why now, market, product, traction, model, competition, team, ask
+
+Last updated: 2026-08-14
